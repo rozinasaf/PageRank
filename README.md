@@ -11,7 +11,10 @@ Each node has 10 childs (max).
 Depth = 3.
 
 
-When finished, runs an implementation of PageRank algorithm.
+
+
+
+When crawler finished, the program runs an implementation of PageRank algorithm.
 
 
 
