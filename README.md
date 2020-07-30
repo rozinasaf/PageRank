@@ -14,7 +14,7 @@ Depth = 3.
 
 
 
-When crawler finished, the program runs an implementation of PageRank algorithm.
+When crawler finished, the program runs my implementation of PageRank algorithm.
 
 
 
