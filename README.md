@@ -1,6 +1,6 @@
 # PageRank
 
-First, the prigram builds a URLs graph using a crawler (implementation - crawler.py).
+First, the program builds an URLs graph (as adjacency list) using a crawler (implementation - crawler.py).
 
 The graph:
 
